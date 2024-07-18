@@ -1,0 +1,15 @@
+{
+  "name": "techchallenge1",
+  "version": "1.0.0",
+  "description": "1. Clone the repository.\r 2. Open `index.html` in a browser.\r 3. Enter a location and click \"Get Weather\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
